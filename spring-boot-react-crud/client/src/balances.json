@@ -1,0 +1,19 @@
+{
+    
+    "accountID":"121212",
+    "daysAgreed":2,
+    "daysUtilised": 3,
+    "accountBalances":[ {
+        
+            "date":"04.12.1986",
+            "balance":"200000"
+
+        },{
+        
+            "date":"03.12.1986",
+            "balance":"200000"
+
+        }
+    ]
+}  
+
